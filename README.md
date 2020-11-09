@@ -8,10 +8,12 @@
 
 3) Pestaña[ Website ]  <br>
 #####
-Entrar al nombre de la aplicacion ej: lamascadaweb <br>
-Seguridad: http to https <br>
+A) Entrar al nombre de la aplicacion ej: lamascadaweb <br>
+B) Seguridad: http to https <br>
  <br>
-Certificado tipo: Let's Encrypt certificate  <br>
+C) Certificado tipo: Let's Encrypt certificate  <br>
+
+D) Guardar <br>
 #####
  <br>
  <br>
