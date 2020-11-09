@@ -10,9 +10,7 @@
 #####
 A) Entrar al nombre de la aplicacion ej: lamascadaweb <br>
 B) Seguridad: http to https <br>
- <br>
 C) Certificado tipo: Let's Encrypt certificate  <br>
-
 D) Guardar <br>
 #####
  <br>
