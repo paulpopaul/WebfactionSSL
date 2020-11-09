@@ -1,17 +1,23 @@
 # Certificado SSL en Servidor Webfaction <br>
 
 www.webfaction.com <br>
-DOMAINS / WEBSITE <br>
->> Website
+[ DOMAINS / WEBSITE ] <br>
+[ Website ]
  <br>
-entrar al nombre de la aplicacion ej: lamascadaweb <br>
-seguridad: cambiar http to https <br>
+Entrar al nombre de la aplicacion ej: lamascadaweb <br>
+Seguridad: http to https <br>
  <br>
-certificado tipo: Let's Encrypt certificate  <br>
+Certificado tipo: Let's Encrypt certificate  <br>
  <br>
+ <br>
+# .htaccess (1) <br>
+RewriteEngine On
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{REQUEST_URI} !^/(.well-known)(/|$)
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 
 
-archivo #.htaccess  <br>
+# .htaccess (2) <br>
  <br>
 Options +FollowSymLinks <br>
 RewriteEngine on <br>
