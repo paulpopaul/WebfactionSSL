@@ -12,12 +12,12 @@ Certificado tipo: Let's Encrypt certificate  <br>
  <br>
  <br>
 # .htaccess (1) <br>
-RewriteEngine On
-RewriteCond %{HTTP:X-Forwarded-SSL} !on
-RewriteCond %{REQUEST_URI} !^/(.well-known)(/|$)
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
-
-
+RewriteEngine On <br>
+RewriteCond %{HTTP:X-Forwarded-SSL} !on <br> 
+RewriteCond %{REQUEST_URI} !^/(.well-known)(/|$) <br>
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L] <br>
+<br>
+<br>
 # .htaccess (2) <br>
  <br>
 Options +FollowSymLinks <br>
