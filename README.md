@@ -13,7 +13,11 @@ B) Seguridad: http to https <br>
 C) Certificado tipo: Let's Encrypt certificate  <br>
 D) Guardar <br>
  <br>
- <br>
+4) Nuevo website
+ A) Nombre: redireccion_lamascada2
+ B) Seguridad: http <br>
+ C) Agregar Dominios www.lamascada.cl / lamascada.cl <br>
+ 
 # .htaccess (1) <br>
 RewriteEngine On <br>
 RewriteCond %{HTTP:X-Forwarded-SSL} !on <br> 
