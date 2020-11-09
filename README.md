@@ -18,7 +18,7 @@ D) Guardar <br>
  A) Nombre: redireccion_lamascada2  <br>
  B) Seguridad: http <br>
  C) Agregar Dominios www.lamascada.cl / lamascada.cl <br>
- D) Crear nueva aplicacion, Nombre: redireccion_lamascada2, Tipo: Static/CGI/PHP  <br>
+ D) Crear nueva aplicacion, Nombre: redireccion_lamascada2, Tipo: Static/CGI/PHP 7.3 <br>
  
  
 5) Crear archivo htaccess y agregar a carpeta raiz de nueva app <br>
