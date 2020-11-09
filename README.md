@@ -14,6 +14,7 @@ C) Certificado tipo: Let's Encrypt certificate  <br>
 D) Guardar <br>
  <br>
 4) Nuevo website  <br>
+
  A) Nombre: redireccion_lamascada2  <br>
  B) Seguridad: http <br>
  C) Agregar Dominios www.lamascada.cl / lamascada.cl <br>
