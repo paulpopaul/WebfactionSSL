@@ -1,5 +1,5 @@
 # Certificado SSL en Servidor Webfaction <br>
-1) ir a www.webfaction.com <br>
+1) Ir a www.webfaction.com <br>
 <br>
 2) Pestaña [ DOMAINS / WEBSITE ] <br>
 <br>
