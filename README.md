@@ -1,8 +1,10 @@
 # Certificado SSL en Servidor Webfaction <br>
 
-www.webfaction.com <br>
-[ DOMAINS / WEBSITE ] <br>
-[ Website ]  <br>
+1) ir a www.webfaction.com <br>
+<br>
+2) Pestaña [ DOMAINS / WEBSITE ] <br>
+<br>
+3) Pestaña[ Website ]  <br>
  <br>
 
 Entrar al nombre de la aplicacion ej: lamascadaweb <br>
