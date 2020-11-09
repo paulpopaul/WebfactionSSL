@@ -2,8 +2,9 @@
 
 www.webfaction.com <br>
 [ DOMAINS / WEBSITE ] <br>
-[ Website ]
+[ Website ]  <br>
  <br>
+
 Entrar al nombre de la aplicacion ej: lamascadaweb <br>
 Seguridad: http to https <br>
  <br>
