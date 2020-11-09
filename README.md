@@ -1,5 +1,13 @@
 # Cómo instalar un certificado SSL en Webfaction? <br>
-Apache / Django <br>
+
+www.webfaction.com <br>
+DOMAINS / WEBSITE <br>
+> Website
+
+entrar al nombre de la aplicacion ej: lamascadaweb <br>
+seguridad: change http to https <br>
+
+certificate type: Let's Encrypt certificate
 
 
 
