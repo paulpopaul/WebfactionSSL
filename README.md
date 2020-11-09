@@ -6,7 +6,7 @@
 2) Pestaña [ DOMAINS / WEBSITE ] <br>
 <br>
 
-3) Pestaña[ Website ]  <br>
+3) Pestaña [ Website ]  <br>
 #####
 A) Entrar al nombre de la aplicacion ej: lamascadaweb <br>
 B) Seguridad: http to https <br>
