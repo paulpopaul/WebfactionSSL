@@ -7,12 +7,11 @@
 <br>
 
 3) Pestaña [ Website ]  <br>
-#####
+
 A) Entrar al nombre de la aplicacion ej: lamascadaweb <br>
 B) Seguridad: http to https <br>
 C) Certificado tipo: Let's Encrypt certificate  <br>
 D) Guardar <br>
-#####
  <br>
  <br>
 # .htaccess (1) <br>
