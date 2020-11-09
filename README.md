@@ -1,14 +1,14 @@
-# Cómo instalar un certificado SSL en Webfaction? <br>
+# Certificado SSL en Servidor Webfaction <br>
 
 www.webfaction.com <br>
 DOMAINS / WEBSITE <br>
-> Website
-
+>> Website
+ <br>
 entrar al nombre de la aplicacion ej: lamascadaweb <br>
-seguridad: change http to https <br>
-
-certificate type: Let's Encrypt certificate
-
+seguridad: cambiar http to https <br>
+ <br>
+certificado tipo: Let's Encrypt certificate  <br>
+ <br>
 
 
 archivo #.htaccess  <br>
